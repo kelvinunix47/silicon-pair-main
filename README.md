@@ -1,4 +1,4 @@
-# 🚀 Malvin-Session-Generator
+# 🚀 Silicon-Session-Generator
 
 ## 📊 Visitor Counter
 
